@@ -1,0 +1,4 @@
+[
+    {"address":"https://dev.paxfinancial.ai/data/query/","protocol":"tcpip"}
+    {"address":"http://52.11.216.136:5000/data/query/","protocol":"tcpip"}
+]
