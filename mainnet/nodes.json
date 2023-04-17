@@ -1,1 +1,4 @@
-http://18.236.208.182/
+[
+    {"address":"https://mainnet.paxfinancial.ai/data/query/","protocol":"tcpip"},
+    {"address":"http://35.161.106.244/:5000/data/query/","protocol":"tcpip"}
+]
